@@ -1,4 +1,4 @@
-# CODEINFOTECH_TASK
+# CODETECH_TASK
 
 This is task 1 about:
 
